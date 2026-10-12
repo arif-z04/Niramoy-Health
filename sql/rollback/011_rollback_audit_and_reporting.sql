@@ -1,0 +1,11 @@
+BEGIN;
+DROP VIEW IF EXISTS vw_top_selling_products CASCADE;
+DROP VIEW IF EXISTS vw_customer_order_summary CASCADE;
+DROP VIEW IF EXISTS vw_daily_sales_summary CASCADE;
+DROP VIEW IF EXISTS vw_prescription_review_queue CASCADE;
+DROP VIEW IF EXISTS vw_low_stock_alerts CASCADE;
+DROP VIEW IF EXISTS vw_product_stock_status CASCADE;
+DROP TABLE IF EXISTS app_configurations CASCADE;
+DROP TABLE IF EXISTS administrative_actions CASCADE;
+DROP TABLE IF EXISTS audit_logs CASCADE;
+COMMIT;

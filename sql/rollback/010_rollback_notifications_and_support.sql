@@ -1,0 +1,6 @@
+BEGIN;
+DROP TABLE IF EXISTS support_messages CASCADE;
+DROP TABLE IF EXISTS support_tickets CASCADE;
+DROP TABLE IF EXISTS notification_preferences CASCADE;
+DROP TABLE IF EXISTS notifications CASCADE;
+COMMIT;

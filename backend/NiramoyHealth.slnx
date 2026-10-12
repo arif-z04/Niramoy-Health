@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NiramoyHealth.Api/NiramoyHealth.Api.csproj" />
+    <Project Path="src/NiramoyHealth.Application/NiramoyHealth.Application.csproj" />
+    <Project Path="src/NiramoyHealth.Domain/NiramoyHealth.Domain.csproj" />
+    <Project Path="src/NiramoyHealth.Infrastructure/NiramoyHealth.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/NiramoyHealth.IntegrationTests/NiramoyHealth.IntegrationTests.csproj" />
+    <Project Path="tests/NiramoyHealth.UnitTests/NiramoyHealth.UnitTests.csproj" />
+  </Folder>
+  <Project Path="NiramoyHealth.DbVerification/NiramoyHealth.DbVerification.csproj" />
+</Solution>
