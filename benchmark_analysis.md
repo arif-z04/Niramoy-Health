@@ -1,0 +1,18 @@
+| Capability                        | Niramoy Health                  | [Arogga](https://www.arogga.com/) | [MedEasy](https://medeasy.health/) | [Doctorola](https://www.doctorola.com/) | [Shukhee](https://www.shukhee.com/en) | [Praava Health](https://praavahealth.com/) |
+| --------------------------------- | ------------------------------- | --------------------------------- | ---------------------------------- | --------------------------------------- | ------------------------------------- | ------------------------------------------ |
+| Medicine e-commerce               | ●                               | ●                                 | ●                                  | ◐                                       | ●                                     | ●                                          |
+| Prescription upload/review        | ●                               | ●                                 | ●                                  | ◐                                       | ◐                                     | ◐                                          |
+| Doctor consultation               | Planned                         | ●                                 | ●                                  | ●                                       | ●                                     | ●                                          |
+| Doctor appointment booking        | Not established                 | ◐                                 | ●                                  | ●                                       | ●                                     | ●                                          |
+| Lab-test services                 | Not established                 | ●                                 | ●                                  | ●                                       | ●                                     | ●                                          |
+| Localized medicine delivery       | ●                               | ●                                 | ●                                  | ◐                                       | ◐                                     | ◐                                          |
+| Digital health records            | Not established                 | ◐                                 | ●                                  | ◐                                       | ◐                                     | ●                                          |
+| MFS payment support (bKash/Nagad) | Planned; integration incomplete | ●                                 | ●                                  | ◐                                       | ◐                                     | ◐                                          |
+| Pharmacy inventory controls       | ●                               | ◐                                 | ◐                                  | —                                       | —                                     | ◐                                          |
+| Family healthcare packages        | Not established                 | ◐                                 | ◐                                  | ●                                       | ◐                                     | ●                                          |
+
+Legend: ● Publicly described capability; ◐ Partial, limited, or not fully verified; — Not established from reviewed sources.
+
+Note: Niramoy's capabilities are based on its project proposal and do not necessarily indicate production-ready functionality. Competitor assessments are based on publicly available website information, not independent operational audits.&#x20;
+
+2302054_Niramoy_Health_Project_Proposal.docx
